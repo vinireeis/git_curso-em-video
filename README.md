@@ -1,7 +1,7 @@
 # ProjetoGit
  Aprendendo e testando o git com github e seus diversos comandos pelo console.
  
- ex de comandos:
+ exemplo de comandos:
  - git init, clone
  - git add . git add --all
  - git status
