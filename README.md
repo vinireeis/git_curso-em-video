@@ -1,7 +1,6 @@
 # ProjetoGit
- Aprendendo e testando o git com github e seus diversos comandos pelo console.
+ Aprendendo e praticando versionamento com o git e github, utilizando diversos comandos como:
  
- exemplo de comandos:
  - git init, clone
  - git add . git add --all
  - git status
