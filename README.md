@@ -1,4 +1,4 @@
-# ProjetoGit
+# Curso sobre uso de versionamento com GIT.
  Aprendendo e praticando versionamento com o git e github, utilizando diversos comandos como:
  
  - git init, clone
